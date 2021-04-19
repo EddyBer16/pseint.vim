@@ -11,7 +11,7 @@ As a computer systems student mainly using Vim, I decided to make my own plugin 
 Preview
 ---
 ![](./preview-pseint.jpg)
-  Color theme: [dracula](https://github.com/dracula/vim)
+  Color theme: [dracula](https://github.com/dracula/vim) - my [.vimrc](https://github.com/EddyBer16/dotfiles/blob/master/.vimrc)
 
 Installation
 ---
